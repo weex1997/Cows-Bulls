@@ -45,9 +45,9 @@ The player uses these clues to narrow down the correct number through logic and 
 
 ## &nbsp;
 
-### ⭐ Features
+### Features
 
-#### 🏆 High Score System with PlayFab
+#### High Score System with PlayFab
 
 <div style="display: flex; gap: 10px;">
   <img src="images/Screenshot 2024-01-27 220106.png" width="300"/>
