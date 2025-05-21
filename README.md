@@ -10,10 +10,12 @@
 <br/>
 
 </div>   
-# Example for Unity project
-1. Clone the repo
-2. Open the project in Unity 2022.x or later
-3. Press Play to run
+
+## 🚀 How to Run the Game
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/cows-and-bulls.git
 
 ### Introduction:
 Cows and Bulls is a captivating word-guessing game that I developed as a personal project, showcasing my skills in game development, and design. Cows and Bulls offers a fun and intellectually stimulating gameplay experience. The primary objective of the project stemmed from my friend's passion for the game and their request for me to develop it. In this project, I aimed to create a unique approach for displaying cows and bulls results. I came up with the idea of using an invoice machine to showcase the outcomes. I envisioned the invoice machine printing the cows and bulls results, and to my delight, it worked successfully.
