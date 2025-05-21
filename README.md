@@ -16,7 +16,7 @@
 
 
 
-### 🧩 Introduction
+### Introduction
 
 *Cows and Bulls* is a logic-based number guessing game that I developed as a personal project, showcasing my skills in game development and design. The game offers a fun and intellectually stimulating experience.
 
@@ -24,7 +24,16 @@ The idea was inspired by a friend who loved playing the original game and encour
 
 ## &nbsp;
 
-### ⚙️ Main Mechanics
+### Project Info
+**Role:** Solo Developer 
+<br/>
+**Duration:** 2 week
+<br/>
+**Tech:** Unity Ecs, C#  
+
+## &nbsp;
+
+###  Main Mechanics
 
 - The game randomly generates a **4-digit number** using digits from 0 to 9, with **no repeating digits**.
 - Players attempt to guess this number.
@@ -51,7 +60,7 @@ Players can also generate random names for a faster experience.
 
 ## &nbsp;
 
-#### 📤 Share Results on Social Media
+#### Share Results on Social Media
 
 <img src="images/photo_2024-01-27_22-12-28.jpg" width="300"/>
 
@@ -60,7 +69,7 @@ I captured all guesses and progress in a single camera view and generated a comb
 
 ## &nbsp;
 
-#### 🔍 Enhanced Guessing Aids
+#### Enhanced Guessing Aids
 
 <img src="images/Screenshot 2024-01-29 110840.png" width="300"/>
 
