@@ -9,8 +9,8 @@
 🔗 <a href="https://www.youtube.com/watch?v=E1-fTTuxCIU">Game Overview</a>  
 🔗 <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to Create Lineups</a>  
 
-<p></p>
----
+<p>---</p>
+
 
 ### 🧩 Introduction
 
