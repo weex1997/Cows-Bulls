@@ -1,10 +1,14 @@
 <!-- PROJECT LOGO -->
-<img src="images/f11805456d9f3d08.png" width="200" height="200" alt="Game Logo"/>
-
-### Cows & Bulls - Number Guessing Game
+<div>
+  <h3>
+    <img align="left" width="200" height="200" src="images/f11805456d9f3d08.png"><br/>
+    Cows & Bulls - Number Guessing Game
+  </h3>
+</div>   
 
 🔗 [Game Overview](https://www.youtube.com/watch?v=E1-fTTuxCIU)  
-🔗 [How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)
+🔗 [How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)  
+
 
 ## &nbsp;
 
@@ -32,8 +36,10 @@ The player uses these clues to narrow down the correct number through logic and 
 
 #### 🏆 High Score System with PlayFab
 
-<img src="images/Screenshot 2024-01-27 220106.png" width="300"/>
-<img src="images/Screenshot 2024-01-27 220254.png" width="300"/>
+<div style="display: flex; gap: 10px;">
+  <img src="Screenshot 2024-01-27 220106.png" width="300"/>
+  <img src="images/Screenshot 2024-01-27 220254.png" width="300"/>
+</div>
 
 I integrated the **PlayFab API** to allow player names and high scores to be saved online.  
 A custom service manager sends requests from Unity to the PlayFab server, storing player data and displaying a leaderboard.  
