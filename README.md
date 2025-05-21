@@ -12,28 +12,27 @@
 
 <br/>
 
-## &nbsp;
+## Project Info
+**Role:** Solo Developer
+<br/>
+**Duration:** 3 months
+<br/>
+**Tech:** Unity, C#, PlayFab, DoTween
+
+> [!NOTE]
+> **Installation GUIDE:**
+> <br/>
+> Unity Version: 2020.3.34f1
 
 
-
-### Introduction
+## Introduction
 
 *Cows and Bulls* is a logic-based number guessing game that I developed as a personal project, showcasing my skills in game development and design. The game offers a fun and intellectually stimulating experience.
 
 The idea was inspired by a friend who loved playing the original game and encouraged me to create a digital version. I added a unique twist to the result display using a virtual **invoice machine**, which prints out the results of each guess. This concept worked successfully and added a creative flair to the gameplay.
 
-## &nbsp;
 
-### Project Info
-**Role:** Solo Developer 
-<br/>
-**Duration:** 2 week
-<br/>
-**Tech:** Unity, C#, PlayFab, DoTween
-
-## &nbsp;
-
-###  Main Mechanics
+##  Main Mechanics
 
 - The game randomly generates a **4-digit number** using digits from 0 to 9, with **no repeating digits**.
 - Players attempt to guess this number.
@@ -43,9 +42,7 @@ The idea was inspired by a friend who loved playing the original game and encour
 
 The player uses these clues to narrow down the correct number through logic and deduction.
 
-## &nbsp;
-
-### Features
+## Features
 
 #### High Score System with PlayFab
 
@@ -58,16 +55,12 @@ I integrated the **PlayFab API** to allow player names and high scores to be sav
 A custom service manager sends requests from Unity to the PlayFab server, storing player data and displaying a leaderboard.  
 Players can also generate random names for a faster experience.
 
-## &nbsp;
-
 #### Share Results on Social Media
 
 <img src="images/photo_2024-01-27_22-12-28.jpg" width="300"/>
 
 To increase player engagement, I added a feature that allows players to **share their game results** on social media.  
 I captured all guesses and progress in a single camera view and generated a combined screenshot. Players can then share this image with a custom message.
-
-## &nbsp;
 
 #### Enhanced Guessing Aids
 
@@ -76,8 +69,3 @@ I captured all guesses and progress in a single camera view and generated a comb
 To help players guess more effectively, I added interactive **analytics tools**:
 - Players can **click numbers** to highlight or mark them.
 - Two types of marks are supported: `"X"` for ruled-out digits and `"O"` for likely candidates.
-
-> [!NOTE]
-> **Installation GUIDE:**
-> <br/>
-> Unity Version: 2020.3.34f1
