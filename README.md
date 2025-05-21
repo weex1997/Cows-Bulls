@@ -21,11 +21,20 @@ The game relies on generating four numbers within the range of 0 to 9, The numbe
 
 To determine whether there is a cow or a bull, I require knowledge of the number's position. A cow indicates that the number is present among the hidden numbers, but its location is incorrect. On the other hand, a bull signifies that the number is both correct and in the correct position.
 
-### High Score API:
-I utilized the PlayFab API to implement a feature where player names and their high-score data could be saved. Following the completion of the server setup, I incorporated a service manager into Unity, enabling the transmission of requests to the server. This functionality facilitated the storage of match-high scores and the presentation of a comparative list of top scores. Additionally, I added some details that allow players to select random names.
-```
-- Unity Version: 6000.0.2f1
-- ECS Version: 1.2.1
-```
+### Features:
 
-<a href="Documentation/Battle Simulator-wedad.pdf">Technical Documentation</a>
+## High Score API:
+<img align="left" width="200" height="200" src="Screenshot 2024-01-27 220106.png">
+<img align="left" width="200" height="200" src="images/Screenshot 2024-01-27 220254.png">
+The end result of the UI, both for saving player name and displaying the high score list.
+
+I utilized the PlayFab API to implement a feature where player names and their high-score data could be saved. Following the completion of the server setup, I incorporated a service manager into Unity, enabling the transmission of requests to the server. This functionality facilitated the storage of match-high scores and the presentation of a comparative list of top scores. Additionally, I added some details that allow players to select random names.
+
+## Share The Result On Social Media:
+<img align="left" width="200" height="200" src="images/photo_2024-01-27_22-12-28.jpg">
+To enhance the game's interactivity, I Added a feature that enables players to share their results on social media platforms. To facilitate this, I devised a mechanism to capture the entire guessing process, including the results and the player's progress. By creating copies of all the results and combining them into a single camera view for screenshots, I enabled players to include their progress alongside a shared message when posting on social media.
+
+## Some Datils:
+<img align="left" width="200" height="200" src="images/Screenshot 2024-01-29 110840.png">
+i add some analtics ditals to help players guess easly they can click on spicfic numbe to foucs on it add to type of mark "X" and "O"
+
