@@ -34,8 +34,8 @@ The player uses these clues to narrow down the correct number through logic and 
 
 
 ### ⭐ Features
-
 <br/>
+
 ---
 
 #### 🏆 High Score System with PlayFab
