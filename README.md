@@ -68,20 +68,3 @@ To help players focus and guess more effectively, I added interactive **analytic
 - Two types of marks are supported: `"X"` for ruled-out digits and `"O"` for likely candidates.
 
 <br clear="all"/>
-
----
-
-### 👨‍💻 Tech Stack
-
-- Unity (C#)
-- PlayFab SDK
-- Custom UI/UX
-- Screenshot capture and sharing
-- Procedural logic system
-
----
-
-### 📌 Final Notes
-
-This project was a great opportunity to blend gameplay logic, UI design, and backend integration. It reflects my interest in puzzle games and my ability to creatively present game mechanics in fun and accessible ways.
-
