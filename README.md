@@ -14,8 +14,6 @@
 
 <br/>
 
-<br/>
-
 ## Project Info
 **Role:** Solo Developer
 <br/>
