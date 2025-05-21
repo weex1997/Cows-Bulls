@@ -19,8 +19,8 @@
 
 The idea was inspired by a friend who loved playing the original game and encouraged me to create a digital version. I added a unique twist to the result display using a virtual **invoice machine**, which prints out the results of each guess. This concept worked successfully and added a creative flair to the gameplay.
 
-<br/>
 ---
+<br/>
 
 ### ⚙️ Main Mechanics
 
@@ -35,8 +35,8 @@ The player uses these clues to narrow down the correct number through logic and 
 
 ### ⭐ Features
 
-<br/>
 ---
+<br/>
 
 #### 🏆 High Score System with PlayFab
 
