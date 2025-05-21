@@ -39,7 +39,7 @@ The player uses these clues to narrow down the correct number through logic and 
 #### 🏆 High Score System with PlayFab
 
 <div style="display: flex; gap: 10px;">
-  <img src="Screenshot 2024-01-27 220106.png" width="300"/>
+  <img src="images/Screenshot 2024-01-27 220106.png" width="300"/>
   <img src="images/Screenshot 2024-01-27 220254.png" width="300"/>
 </div>
 
