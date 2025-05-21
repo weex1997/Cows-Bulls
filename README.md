@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="180" height="180" src="images/f11805456d9f3d08.png"> <br/> Cows & Bulls - Guessing Number Game
+<h3><img align="left" width="200" height="200" src="images/f11805456d9f3d08.png"> <br/> Cows & Bulls - Guessing Number Game
 </div>   
 <a href="https://www.youtube.com/watch?v=E1-fTTuxCIU">Game Overview</a> 
   <br/> <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to create Lineups</a><br/> </h3>   
@@ -11,10 +11,10 @@
 
 </div>   
 
-###Introduction:
+### Introduction:
 Cows and Bulls is a captivating word-guessing game that I developed as a personal project, showcasing my skills in game development, and design. Cows and Bulls offers a fun and intellectually stimulating gameplay experience. The primary objective of the project stemmed from my friend's passion for the game and their request for me to develop it. In this project, I aimed to create a unique approach for displaying cows and bulls results. I came up with the idea of using an invoice machine to showcase the outcomes. I envisioned the invoice machine printing the cows and bulls results, and to my delight, it worked successfully.
 
-##Main Mechanics:
+### Main Mechanics:
 The game relies on generating four numbers within the range of 0 to 9, The numbers should have unique digits, meaning each digit should be different from the other.
 
 To determine whether there is a cow or a bull, I require knowledge of the number's position. A cow indicates that the number is present among the hidden numbers, but its location is incorrect. On the other hand, a bull signifies that the number is both correct and in the correct position.
