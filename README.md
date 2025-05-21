@@ -29,7 +29,7 @@ The idea was inspired by a friend who loved playing the original game and encour
 <br/>
 **Duration:** 2 week
 <br/>
-**Tech:** Unity,C# ,PlayFab ,DoTween
+**Tech:** Unity, C#, PlayFab, DoTween
 
 ## &nbsp;
 
