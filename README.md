@@ -38,10 +38,10 @@ The player uses these clues to narrow down the correct number through logic and 
 
 #### 🏆 High Score System with PlayFab
 
-<p align="center">
-  <img width="300" src="Screenshot 2024-01-27 220106.png"><br/>
-  <img width="300" src="images/Screenshot 2024-01-27 220254.png"><br/>
-</p>
+<div style="display: flex; gap: 10px;">
+  <img src="Screenshot 2024-01-27 220106.png" width="300"/>
+  <img src="images/Screenshot 2024-01-27 220254.png" width="300"/>
+</div>
 I integrated the **PlayFab API** to allow player names and high scores to be saved online.  
 A custom service manager sends requests from Unity to the PlayFab server, storing player data and displaying a leaderboard.  
 Players can also generate random names for a faster experience.
