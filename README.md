@@ -10,7 +10,6 @@
 🔗 [How to Create Lineups](https://www.youtube.com/watch?v=WN8-BFGJ8NA)  
 
 
-## &nbsp;
 
 
 ### 🧩 Introduction
