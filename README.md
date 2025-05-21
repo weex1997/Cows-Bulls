@@ -10,7 +10,7 @@
   🔗 <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to Create Lineups</a>
 </p>
 
----
+────────────────────────────────────
 
 ### 🧩 Introduction
 
@@ -18,7 +18,7 @@
 
 The idea was inspired by a friend who loved playing the original game and encouraged me to create a digital version. I added a unique twist to the result display using a virtual **invoice machine**, which prints out the results of each guess. This concept worked successfully and added a creative flair to the gameplay.
 
----
+────────────────────────────────────
 
 ### ⚙️ Main Mechanics
 
@@ -30,7 +30,7 @@ The idea was inspired by a friend who loved playing the original game and encour
 
 The player uses these clues to narrow down the correct number through logic and deduction.
 
----
+────────────────────────────────────
 
 ### ⭐ Features
 
@@ -45,7 +45,7 @@ I integrated the **PlayFab API** to allow player names and high scores to be sav
 A custom service manager sends requests from Unity to the PlayFab server, storing player data and displaying a leaderboard.  
 Players can also generate random names for a faster experience.
 
----
+────────────────────────────────────
 
 #### 📤 Share Results on Social Media
 
@@ -56,7 +56,7 @@ Players can also generate random names for a faster experience.
 To increase player engagement, I added a feature that allows players to **share their game results** on social media.  
 I captured all guesses and progress in a single camera view and generated a combined screenshot. Players can then share this image with a custom message.
 
----
+────────────────────────────────────
 
 #### 🔍 Enhanced Guessing Aids
 
@@ -68,4 +68,4 @@ To help players guess more effectively, I added interactive **analytics tools**:
 - Players can **click numbers** to highlight or mark them.
 - Two types of marks are supported: `"X"` for ruled-out digits and `"O"` for likely candidates.
 
----
+────────────────────────────────────
