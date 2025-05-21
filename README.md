@@ -52,7 +52,9 @@ Players can also generate random names for a faster experience.
 
 #### 📤 Share Results on Social Media
 
-<img align="left" width="200" height="200" src="images/photo_2024-01-27_22-12-28.jpg">
+<div style="display: flex; gap: 10px;">
+  <img src="images/photo_2024-01-27_22-12-28.jpg" width="300"/>
+</div>
 
 To increase player engagement, I added a feature that allows players to **share their game results** on social media.  
 I captured all guesses and progress in a single camera view and generated a combined screenshot. Players can then share this image with a custom message.
@@ -63,10 +65,12 @@ I captured all guesses and progress in a single camera view and generated a comb
 
 #### 🔍 Enhanced Guessing Aids
 
-<img align="left" width="200" height="200" src="images/Screenshot 2024-01-29 110840.png">
+<div style="display: flex; gap: 10px;">
+  <img src="images/Screenshot 2024-01-29 110840.png" width="300"/>
+</div>
 
-To help players focus and guess more effectively, I added interactive **analytics tools**:
+To help players guess more effectively, I added interactive **analytics tools**:
 - Players can **click numbers** to highlight or mark them.
 - Two types of marks are supported: `"X"` for ruled-out digits and `"O"` for likely candidates.
-
+- 
 <br clear="all"/>
