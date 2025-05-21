@@ -9,7 +9,6 @@
 🔗 <a href="https://www.youtube.com/watch?v=E1-fTTuxCIU">Game Overview</a>  
 🔗 <a href="https://www.youtube.com/watch?v=WN8-BFGJ8NA">How to Create Lineups</a>  
 
-<br/>
 ---
 
 ### 🧩 Introduction
@@ -34,12 +33,11 @@ The player uses these clues to narrow down the correct number through logic and 
 
 ### ⭐ Features
 
----
 
 #### 🏆 High Score System with PlayFab
 
 <div style="display: flex; gap: 10px;">
-  <img src="Screenshot 2024-01-27 220106.png" width="300"/>
+  <img src="images/Screenshot 2024-01-27 220106.png" width="300"/>
   <img src="images/Screenshot 2024-01-27 220254.png" width="300"/>
 </div>
 I integrated the **PlayFab API** to allow player names and high scores to be saved online.  
@@ -47,8 +45,6 @@ A custom service manager sends requests from Unity to the PlayFab server, storin
 Players can also generate random names for a faster experience.
 
 <br clear="all"/>
-
----
 
 #### 📤 Share Results on Social Media
 
@@ -61,7 +57,6 @@ I captured all guesses and progress in a single camera view and generated a comb
 
 <br clear="all"/>
 
----
 
 #### 🔍 Enhanced Guessing Aids
 
@@ -72,5 +67,5 @@ I captured all guesses and progress in a single camera view and generated a comb
 To help players guess more effectively, I added interactive **analytics tools**:
 - Players can **click numbers** to highlight or mark them.
 - Two types of marks are supported: `"X"` for ruled-out digits and `"O"` for likely candidates.
-- 
+
 <br clear="all"/>
