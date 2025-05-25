@@ -1,0 +1,94 @@
+{
+  "level": [
+    {
+      "Round": "1",
+      "Digits": "3",
+      "Tries": "15",
+      "Time": "3:30"
+  },
+  {
+      "Round": "2",
+      "Digits": "3",
+      "Tries": "10",
+      "Time": "2:00"
+  },
+  {
+      "Round": "3",
+      "Digits": "3",
+      "Tries": "6",
+      "Time": "1:00"
+  },
+  {
+      "Round": "4",
+      "Digits": "4",
+      "Tries": "15",
+      "Time": "3:30"
+  },
+  {
+      "Round": "5",
+      "Digits": "4",
+      "Tries": "10",
+      "Time": "2:00"
+  },
+  {
+      "Round": "6",
+      "Digits": "4",
+      "Tries": "6",
+      "Time": "2:30"
+  },
+  {
+      "Round": "7",
+      "Digits": "5",
+      "Tries": "15",
+      "Time": "3:30"
+  },
+  {
+      "Round": "8",
+      "Digits": "5",
+      "Tries": "10",
+      "Time": "2:00"
+  },
+  {
+      "Round": "9",
+      "Digits": "5",
+      "Tries": "6",
+      "Time": "1:00"
+  },
+  {
+      "Round": "10",
+      "Digits": "6",
+      "Tries": "15",
+      "Time": "3:30"
+  },
+  {
+      "Round": "11",
+      "Digits": "6",
+      "Tries": "10",
+      "Time": "2:00"
+  },
+  {
+      "Round": "12",
+      "Digits": "6",
+      "Tries": "6",
+      "Time": "1:00"
+  },
+  {
+      "Round": "13",
+      "Digits": "7",
+      "Tries": "15",
+      "Time": "3:30"
+  },
+  {
+      "Round": "14",
+      "Digits": "7",
+      "Tries": "10",
+      "Time": "2:00"
+  },
+  {
+      "Round": "15",
+      "Digits": "7",
+      "Tries": "6",
+      "Time": "1:00"
+  }
+  ]
+}

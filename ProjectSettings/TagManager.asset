@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Input
+  - corsier
+  - Button
+  - XO
+  - Window
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Invoice
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 3864706975
+    locked: 0
+  - name: Invoice
+    uniqueID: 25926523
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

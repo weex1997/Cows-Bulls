@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0d3394b95be46b34aabfb568d36b0cac, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 4030909093599772809
+  m_TableData:
+  - m_Id: 924644212736
+    m_Localized: Guess
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248885882060800
+    m_Localized: Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249196092784640
+    m_Localized: Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249617033134080
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 249742346354688
+    m_Localized: Attempts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260205012516864
+    m_Localized: Enter Your Name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260679644151808
+    m_Localized: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260962457681920
+    m_Localized: Random name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 266976271728640
+    m_Localized: Challenge Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 267118940979200
+    m_Localized: Stages Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268992079396864
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269306094354432
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270030974943232
+    m_Localized: How To Play?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270352594173952
+    m_Localized: Credit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 975995659550720
+    m_Localized: Stages Score {0}
+    m_Metadata:
+      m_Items:
+      - rid: 4030909093599772809
+  - m_Id: 976689313546240
+    m_Localized: Place {0}
+    m_Metadata:
+      m_Items:
+      - rid: 4030909093599772809
+  - m_Id: 977041635082240
+    m_Localized: Challnge Score {0}
+    m_Metadata:
+      m_Items:
+      - rid: 4030909093599772809
+  - m_Id: 981564814458880
+    m_Localized: Place {0}
+    m_Metadata:
+      m_Items:
+      - rid: 4030909093599772809
+  - m_Id: 1063902877515776
+    m_Localized: 'Game by:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1064210210947072
+    m_Localized: 'Special thanks for:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1064405447409664
+    m_Localized: 'Wedad Almehmadi & Q Star
+
+
+      Esraa Aljohani - Abeer Bagazi
+
+      Ahmed
+      Alghamdi - Hebah Alshawarib
+
+      Naif Alanazi - Snowy
+
+      Mohammad AL-Arkobi'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 4030909093599772809
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 977041635082240
+        - id: 976689313546240
+        - id: 975995659550720
+        - id: 981564814458880
